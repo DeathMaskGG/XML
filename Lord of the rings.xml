@@ -3,5 +3,8 @@
 <direccion> Peter Jackson  </direccion>
 <año>    2001     </año>
 <genero>   Fantasia   </genero>
-<reparto>   Viggo Mortensen, Elijah Wood, Ian Holm  </reparto>
+<reparto>  Viggo Mortensen  </reparto>
+<reparto>  Elijah Wood </reparto>  
+<reparto>  Ian Holm    </reparto>
+
 </pelicula>
